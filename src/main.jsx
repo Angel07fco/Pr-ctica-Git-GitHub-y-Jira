@@ -5,6 +5,6 @@ import './index.css'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <App />
+    <h1>Main del proyecto</h1>
   </StrictMode>,
 )
